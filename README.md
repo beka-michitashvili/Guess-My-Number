@@ -9,7 +9,7 @@ The game was built using HTML, CSS, and JavaScript. It runs entirely in your web
 
 🚀 Getting Started
 
-To play the game, simply visit the game's web page on your computer. You can access the game directly from GitHub Pages at https://your-username.github.io/guess-my-number/. Once the page loads, follow the instructions to start the game.
+To play the game, simply visit the game's web page on your computer. You can access the game directly from GitHub Pages at https://beka-michitashvili.github.io/Guess-My-Number/. Once the page loads, follow the instructions to start the game.
 
 🎯 How to Play
 
