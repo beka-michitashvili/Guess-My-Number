@@ -1,5 +1,4 @@
-# Guess-My-Number
-🎮 Guess My Number Game
+# 🎮 Guess My Number Game
 
 Welcome to the "Guess My Number" game! This is a simple, interactive game that challenges you to guess a random number between 1 and 20.
 
